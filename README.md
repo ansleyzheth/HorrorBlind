@@ -1,4 +1,4 @@
-# HorrorBlind
+# HorrorBlind.
 Horror Blind, é um jogo de suspense voltado ao publico deficinete visual, o qual você deve utilizar fones de ouvido para uma melhor jogabilidade, este jogo vem como Tr 
 
 # Ojetivo.
