@@ -1,7 +1,7 @@
 # HorrorBlind.
 HorrorBlind se trata de um jogo de suspense voltado ao publico que possui deficiência visual,podendo ser jogado por pessoas que não possem deficiência visual, o qual você deve utilizar fones de ouvido para uma melhor jogabilidade, este jogo vem a premissa bem simples, atravéz do som, ache a chave que esta disposta no mapa e abra a porta para abrir o próximo nivel.
 
-## Ojetivo.
+## Objetivo.
 Um fato comprovado é que, quem possui alguma deficiência, claramente terá alguma dificuldade ao jogar videogames. Mas nem por isso as empresas e grandes desenvolvedoras deixam elas de lado. Pensando nessas pessoas, empresas como a Nintendo, Microsoft, Sony e empresas indie, tem criado jogos e controles com recursos para pessoas que possuam alguma deficiência. Com base nisso, foi abordada uma análise e criação de um jogo focado para pessoas portadoras de deficiência visual. 
 
 O objetivo deste projeto é desenvolver um jogo para crianças e jovens que tenham deficiência visual, na plataforma PC Microsoft Windows, utilizando a ferramenta Unreal Engine 4, suas peculiaridades e disponibilizar o jogo no GitHub para ser baixado analizado e testado ou até mesmo alterado.
