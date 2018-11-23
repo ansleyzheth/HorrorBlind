@@ -27,4 +27,15 @@ Para pessoas que possuem deficiência visual, a função de transferência relac
 
 	Conclui-se, com este artigo, que foi apresentada uma maneira e um modelo prático de quais são as ferramentas disponíveis no mercado para criação de jogos e quais delas se adéquam para pessoas que possuem deficiência visual e qual a melhor maneira para obter um grau de satisfação do jogador que possui a deficiência. Outro ponto que auxilia na criação do jogo é devido à existência de uma grande quantidade de manuais, artigos, grupos e vídeos que possibilitam a criação de um jogo. Também foram apresentadas as dificuldade e possibilidades a serem cumpridas para facilitar o jogo e utilizar os recursos sonoros, desta forma, inserindo um jogador que apresenta deficiência visual no mundo dos jogos, de maneira simplificada.
 
+### Prints do jogo
+O jogo claramente se passa em um ambinete escuro para dar uma maior imersão para jogadores que não sãp cegos a saber como seria se fossem, é necessáriamente o uso de fones de ouvidos para ter uma melhor experiência.
+
+![sem titulo](https://user-images.githubusercontent.com/45273232/48951904-7f1a6780-ef27-11e8-8ba2-d81665c5ddcf.png)
+
+![sem titulo2](https://user-images.githubusercontent.com/45273232/48951905-7f1a6780-ef27-11e8-9cde-3da59f02331f.png)
+
+![sem titulo3](https://user-images.githubusercontent.com/45273232/48951906-7f1a6780-ef27-11e8-9bb7-e740143f0cb1.png)
+
+![sem titulo4](https://user-images.githubusercontent.com/45273232/48951907-7f1a6780-ef27-11e8-9983-934daf32db9b.png)
+
 
