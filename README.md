@@ -29,13 +29,16 @@ Para pessoas que possuem deficiência visual, a função de transferência relac
 
 ### Prints do jogo
 O jogo claramente se passa em um ambinete escuro para dar uma maior imersão para jogadores que não sãp cegos a saber como seria se fossem, é necessáriamente o uso de fones de ouvidos para ter uma melhor experiência.
-
+Tela inicial: 
 ![sem titulo](https://user-images.githubusercontent.com/45273232/48951904-7f1a6780-ef27-11e8-8ba2-d81665c5ddcf.png)
 
+ Primeira fase: 
 ![sem titulo2](https://user-images.githubusercontent.com/45273232/48951905-7f1a6780-ef27-11e8-9cde-3da59f02331f.png)
 
+Segunda fase: 
 ![sem titulo3](https://user-images.githubusercontent.com/45273232/48951906-7f1a6780-ef27-11e8-9bb7-e740143f0cb1.png)
 
+Menu de pause presente em todas as telas menos na tela incial:
 ![sem titulo4](https://user-images.githubusercontent.com/45273232/48951907-7f1a6780-ef27-11e8-9983-934daf32db9b.png)
 
 
